@@ -1,2 +1,2 @@
-# Html-Css-JavaScripy
+# Html-Css-JavaScript
 Curso de cursera 
